@@ -1,4 +1,4 @@
-### MINING REDDIT FOR STOCK VALUATION SIGNALS
+### Mining Reddit for Stock Valuation Signals
 
 Machine Learning and Data Visualization Project
 
